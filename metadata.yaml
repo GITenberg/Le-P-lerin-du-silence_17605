@@ -37,5 +37,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 title: Le Pèlerin du silence
 url: http://www.gutenberg.org/ebooks/17605
